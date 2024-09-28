@@ -5,6 +5,6 @@
     2. Configure AWS Provider
     3. Define the S3 Bucket Resource
     4. Running Terraform Commands
-       Initialize Terraform: 'terraform init'
-       Plan Changes: 'terraform plan'
-       Apply Changes:  'terraform apply'
+      - terraform init
+      - terraform plan
+      - terraform apply
