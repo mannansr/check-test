@@ -5,7 +5,7 @@
     2. Configure AWS Provider
     3. Define the S3 Bucket Resource
     4. Running Terraform Commands
-      - **Initialize Terraform**:
+     
     ```bash
     terraform init
     ```
